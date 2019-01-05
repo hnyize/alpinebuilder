@@ -27,4 +27,7 @@ RUN	apk update		&&	\
 		zlib-dev		\
 		openssl-dev		\
 		curl			\
+		linux-headers		\
+		openssl			\
+		zlib			\
 		make
